@@ -1,6 +1,5 @@
 # JavaScriptSDK README
 
-
 ## 1. Overview:
 
 JavaScriptSDK for the Client API of PlayFab
